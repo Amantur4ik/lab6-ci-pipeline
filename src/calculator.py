@@ -1,5 +1,5 @@
 """Simple calculator module."""
-
+x = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 
 def add(a: float, b: float) -> float:
     return a + b
